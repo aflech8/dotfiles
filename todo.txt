@@ -1,0 +1,6 @@
+- Add fish conf with stow connection
+- Add launcher conf
+- Fix internet logo error
+- Log out and functional buttons at the top bar
+- Implement multiple themes election
+- Add shell automatizations commands
